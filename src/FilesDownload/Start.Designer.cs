@@ -134,7 +134,7 @@
             this.btnLoadSuning.Name = "btnLoadSuning";
             this.btnLoadSuning.Size = new System.Drawing.Size(172, 23);
             this.btnLoadSuning.TabIndex = 9;
-            this.btnLoadSuning.Text = "一键加载苏宁图片链接";
+            this.btnLoadSuning.Text = "一键加载网络图片链接";
             this.btnLoadSuning.UseVisualStyleBackColor = true;
             this.btnLoadSuning.Click += new System.EventHandler(this.btnLoadSuning_Click);
             // 
